@@ -63,7 +63,3 @@ seoit/
 Your AI agent needs web access / web search enabled to perform live checks.
 
 ---
-
-## License
-
-MIT — free to use, modify, and share.
